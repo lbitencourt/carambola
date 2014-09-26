@@ -1,0 +1,15 @@
+{
+  "name": "carambola",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec --recursive"
+  },
+  "author": "Leandro Bitencourt",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^1.21.4",
+    "chai": "^1.9.1"
+  }
+}

@@ -1,0 +1,7 @@
+.build
+log
+node_modules
+tasks
+**/animatescroll.min.js
+**/jquery.mask.min.js
+**/semantic.min.js
