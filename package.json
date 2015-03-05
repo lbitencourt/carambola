@@ -1,7 +1,7 @@
 {
   "name": "carambola",
   "version": "0.0.2",
-  "description": "",
+  "description": "carambola =========",
   "main": "index.js",
   "scripts": {
     "test": "mocha -R spec --recursive"
@@ -11,5 +11,17 @@
   "devDependencies": {
     "mocha": "^1.21.4",
     "chai": "^1.9.1"
-  }
+  },
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lbitencourt/carambola.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lbitencourt/carambola/issues"
+  },
+  "homepage": "https://github.com/lbitencourt/carambola"
 }
